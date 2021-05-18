@@ -1,0 +1,274 @@
+html, body, div, h1, h2, h3, h4, h5, h6, p, ul, ol, li, aside, main {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font: inherit;
+    vertical-align:baseline;
+    background-color: #212529;
+}
+.everything {
+    display:flex;
+}
+h1 {
+    background-color:#012E87;
+    color:white;
+    font-size: 90;
+    padding-left: 450;
+    padding-right: 350;
+    font-family: sans-serif
+}
+h2 {
+    background-color:white;
+    color:012E87;
+    font-size: 20;
+    font-family: sans-serif;
+}
+.fbimg {
+    margin: 3%;
+    position: relative;
+}
+.school-crest {
+    position: absolute;
+    width: 87.6551724138;
+    height: 101.379310345;
+    top: 0px;
+}
+.ball {
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    top: 450;
+    left: 10;
+}
+.news {
+    position: absolute;
+    top: 170px;
+    left: 700px;
+    background-color: #012E87;
+    color: white;
+    font-family: sans-serif;
+    font-size: 22;
+    width: 150;
+    height: 25;
+    opacity: 0.8;
+}
+.first-box {
+    position: absolute;
+    top: 200px;
+    left: 1050px;
+    background-color: #012E87;
+    color: white;
+    font-family: sans-serif;
+    font-size: 25;
+    width: 300;
+    height: 175;
+    opacity: 0.8;
+}
+.second-box {
+    position: absolute;
+    top: 200px;
+    left: 700px;
+    background-color: #012E87;
+    color: white;
+    font-family: sans-serif;
+    font-size: 25;
+    width: 300;
+    height: 175;
+    opacity: 0.8;
+}
+.third-box {
+    position: absolute;
+    top: 400px;
+    left: 700px;
+    background-color: #012E87;
+    color: white;
+    font-family: sans-serif;
+    font-size: 28;
+    width: 649;
+    opacity: 0.8;
+}
+.fourth-box {
+    position: absolute;
+    top: 150px;
+    left: 10px;
+    background-color: #012E87;
+    color: white;
+    font-family: sans-serif;
+    font-size: 28;
+    width: 440;
+    opacity: 0.8;
+}
+.fifth-box {
+    position: absolute;
+    top: 150px;
+    left: 650px;
+    background-color: #012E87;
+    color: white;
+    font-family: sans-serif;
+    font-size: 28;
+    width: 440;
+    opacity: 0.8;
+}
+.sixth-box {
+    position: absolute;
+    top: 150px;
+    left: 10px;
+    background-color: #012E87;
+    color: white;
+    font-family: sans-serif;
+    font-size: 28;
+    width: 600;
+    opacity: 0.8;
+}
+.seventh-box {
+    position: absolute;
+    top: 200px;
+    left: 10px;
+    background-color: #012E87;
+    color: white;
+    font-family: sans-serif;
+    font-size: 28;
+    width: 1400;
+    opacity: 0.8;
+}
+.eighth-box {
+    position: absolute;
+    top: 150px;
+    left: 10px;
+    background-color: #012E87;
+    color: white;
+    font-family: sans-serif;
+    font-size: 28;
+    width: 1400;
+    opacity: 0.8;
+}
+.draw-1 {
+    position: absolute;
+    top: 200px;
+    left: 10px;
+    background-color: #012E87;
+    color: white;
+    font-family: sans-serif;
+    font-size: 28;
+    width: 600;
+    opacity: 0.8; 
+}
+.draw-2 {
+    position: absolute;
+    top: 235px;
+    left: 10px;
+    background-color: #012E87;
+    color: white;
+    font-family: sans-serif;
+    font-size: 28;
+    width: 600;
+    opacity: 0.8; 
+}
+.draw-3 {
+    position: absolute;
+    top: 270px;
+    left: 10px;
+    background-color: #012E87;
+    color: white;
+    font-family: sans-serif;
+    font-size: 28;
+    width: 600;
+    opacity: 0.8; 
+}
+.draw-4 {
+    position: absolute;
+    top: 305px;
+    left: 10px;
+    background-color: #012E87;
+    color: white;
+    font-family: sans-serif;
+    font-size: 28;
+    width: 600;
+    opacity: 0.8; 
+}
+.draw-5 {
+    position: absolute;
+    top: 340px;
+    left: 10px;
+    background-color: #012E87;
+    color: white;
+    font-family: sans-serif;
+    font-size: 28;
+    width: 600;
+    opacity: 0.8; 
+}
+.draw-6 {
+    position: absolute;
+    top: 200px;
+    left: 650px;
+    background-color: #012E87;
+    color: white;
+    font-family: sans-serif;
+    font-size: 28;
+    width: 600;
+    opacity: 0.8; 
+}
+.draw-7 {
+    position: absolute;
+    top: 235px;
+    left: 650px;
+    background-color: #012E87;
+    color: white;
+    font-family: sans-serif;
+    font-size: 28;
+    width: 600;
+    opacity: 0.8; 
+}
+.draw-8 {
+    position: absolute;
+    top: 270px;
+    left: 650px;
+    background-color: #012E87;
+    color: white;
+    font-family: sans-serif;
+    font-size: 28;
+    width: 600;
+    opacity: 0.8; 
+}
+.draw-9 {
+    position: absolute;
+    top: 305px;
+    left: 650px;
+    background-color: #012E87;
+    color: white;
+    font-family: sans-serif;
+    font-size: 28;
+    width: 600;
+    opacity: 0.8; 
+}
+.draw-10 {
+    position: absolute;
+    top: 340px;
+    left: 650px;
+    background-color: #012E87;
+    color: white;
+    font-family: sans-serif;
+    font-size: 28;
+    width: 600;
+    opacity: 0.8; 
+}
+.filler {
+    position: absolute;
+    top: 200px;
+    left: 25px;
+    background-color: #212529;
+    color: white;
+    font-family: sans-serif;
+    font-size: 23.4;
+    width: 649;
+    height: 391;
+    opacity: 0.8;
+}
+.credit {
+    position: absolute;
+    top: 1060px;
+    left: 5px;
+    color: white;
+    font-family: sans-serif;
+    font-size: 8;
+}
